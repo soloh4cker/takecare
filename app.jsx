@@ -147,14 +147,14 @@ function useGifMap() {
   const [map, setMap] = useLocalState("bt_gif_map", {
     // paste real GIF URLs later in Settings
     "pelvic-tilt": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/Pelvic_tilt_GIF_-_Jess_King.gif",
-    "child-pose": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/ChildPose-ezgif.com-webp-to-gif-converter.gif",
-    "coccyx-massage": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/sensual-lower-back-massage-3evfzw6dd1cvtoo4.gif",
+    "child-pose": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/ChildPose.gif",
+    "coccyx-massage": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/massage.gif",
     "cat-cow": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/cat-cow.gif",
     "bridge": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/Bridge_Pose_Progression.gif",
     "knee-to-chest": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/knee-to-chest.gif",
-    "bird-dog": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/bird-dog-ezgif.com-webp-to-gif-converter.gif",
+    "bird-dog": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/bird-dog.gif",
     "plank": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/plank.gif",
-    "side-plank": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/side-plank-ezgif.com-webp-to-gif-converter.gif"
+    "side-plank": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/side-plank.gif"
   });
   const setOne = (id, url) => setMap({ ...(map || {}), [id]: url });
   return { map: map || {}, setOne };
