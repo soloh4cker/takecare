@@ -147,7 +147,7 @@ function useGifMap() {
   const [map, setMap] = useLocalState("bt_gif_map", {
     // paste real GIF URLs later in Settings
     "pelvic-tilt": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/Pelvic_tilt_GIF_-_Jess_King.gif",
-    "child-pose": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/ChildPose.gif",
+    "child-pose": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/child-pose.gif",
     "coccyx-massage": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/massage.gif",
     "cat-cow": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/cat-cow.gif",
     "bridge": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/Bridge_Pose_Progression.gif",
