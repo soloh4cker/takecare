@@ -152,7 +152,7 @@ function useGifMap() {
     "cat-cow": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/cat-cow.gif",
     "bridge": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/Bridge_Pose_Progression.gif",
     "knee-to-chest": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/knee-to-chest.gif",
-    "bird-dog": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/bird-dog.gif",
+    "bird-dog": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/bird_dog.gif",
     "plank": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/plank.gif",
     "side-plank": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/side-plank.gif"
   });
