@@ -146,7 +146,7 @@ const EXERCISES = [
 function useGifMap() {
   const [map, setMap] = useLocalState("bt_gif_map", {
     // paste real GIF URLs later in Settings
-    "pelvic-tilt": "https://images.squarespace-cdn.com/content/v1/62b90b35244b1a2e5bd22d91/b223a21e-b51d-4d05-94dd-d8da6a2c771e/8588e6a2-cf84-4321-8fa8-53918050af81.Posterior+to+anterior+pelvic+tilts.gif",
+    "pelvic-tilt": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/Pelvic_tilt_GIF_-_Jess_King.gif",
     "child-pose": "",
     "coccyx-massage": "",
     "cat-cow": "",
