@@ -148,7 +148,7 @@ function useGifMap() {
     // paste real GIF URLs later in Settings
     "pelvic-tilt": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/Pelvic_tilt_GIF_-_Jess_King.gif",
     "child-pose": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/Child-Pose.gif",
-    "coccyx-massage": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/massage.gif",
+    "coccyx-massage": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/coccyx_massage.gif",
     "cat-cow": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/cat-cow.gif",
     "bridge": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/Bridge_Pose_Progression.gif",
     "knee-to-chest": "https://raw.githubusercontent.com/soloh4cker/takecare/main/gifs/knee-to-chest.gif",
